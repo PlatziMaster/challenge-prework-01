@@ -4,6 +4,7 @@ Recap: Curso de Pensamiento Logico.
 ## Retos:
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
+* Hubo una confusion y el diagrama representa "Como ver la hora".
 
 <Imagen_reto_1>
 
