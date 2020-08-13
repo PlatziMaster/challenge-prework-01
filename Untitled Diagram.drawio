@@ -1,19 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T07:46:47.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="PpvaSXPgyndg8V5fAnt_" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T21:01:19.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="6IewhkfHCok6JByH2KmK" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="652" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="sourcePoint" />
+            <mxPoint x="220" y="140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="130" />
               <mxPoint x="220" y="130" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font color=&quot;#a680b8&quot;&gt;How works a mechanical clock&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="155" y="40" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;fontColor=#FF99CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -21,14 +20,14 @@
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="BvLEymWVp1OHy5rKcRjy-7" edge="1">
           <mxGeometry x="0.2" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="320" y="210" as="targetPoint" />
+            <mxPoint x="300" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;&lt;font color=&quot;#67ab9f&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#67ab9f&quot;&gt;the watch has winding?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#67AB9F;fillColor=#ACDED5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="150" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="&lt;font color=&quot;#ff99cc&quot;&gt;No&lt;/font&gt;" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-1" y="184" relative="1" as="geometry">
@@ -38,22 +37,117 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BvLEymWVp1OHy5rKcRjy-2" value="&lt;span style=&quot;color: rgb(166 , 128 , 184)&quot;&gt;It has 3 clock hands: one per hours, one per minutes, other for seconds.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="290" width="180" height="90" as="geometry" />
+          <mxGeometry x="90" y="290" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BvLEymWVp1OHy5rKcRjy-7" value="&lt;font color=&quot;#a680b8&quot;&gt;Wind it&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BvLEymWVp1OHy5rKcRjy-8" value="&lt;font color=&quot;#a680b8&quot;&gt;&amp;nbsp;Starting from the top, all clock hands turn around in right direction.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="555" width="200" height="60" as="geometry" />
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-8" value="&lt;font color=&quot;#a680b8&quot;&gt;Space between each number is devided by 5 spaces , each one representig a minute, in total it has 60 minutes to complete the circle.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="555" width="220" height="125" as="geometry" />
         </mxCell>
         <mxCell id="BvLEymWVp1OHy5rKcRjy-9" value="&lt;span style=&quot;color: rgb(166 , 128 , 184)&quot;&gt;Clock has twelve numbers distributed proportionally in a circular way&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;fillColor=#E1D5E7;strokeColor=#A680B8;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="430" width="200" height="60" as="geometry" />
+          <mxGeometry x="100" y="430" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BvLEymWVp1OHy5rKcRjy-12" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" y="184" relative="1" as="geometry">
             <mxPoint x="-114" y="-170" as="offset" />
             <mxPoint x="219.71" y="495" as="sourcePoint" />
             <mxPoint x="219.71" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#FF99CC;fontFamily=Helvetica;fontColor=#FF99CC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BvLEymWVp1OHy5rKcRjy-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="555" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BvLEymWVp1OHy5rKcRjy-50">
+          <mxGeometry x="0.2" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="320" y="622.5" as="sourcePoint" />
+            <mxPoint x="370" y="622" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-18" value="&lt;font color=&quot;#a680b8&quot;&gt;from that position, the smallest measure of time is second, so the corresponding clock hand will complete a whole round in 60 seconds to complete 1 minute.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#A680B8;strokeWidth=1;fillColor=#e1d5e7;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="370" width="200" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-24" value="&lt;font color=&quot;#00a600&quot;&gt;How works a mechanical clock&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="20" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-27" value="for each completed second round, Minute hand will move one space to right." style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#A680B8;strokeWidth=1;fillColor=#e1d5e7;glass=0;fontColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="250" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#FF99CC;fontFamily=Helvetica;fontColor=#FF99CC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="370" as="sourcePoint" />
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-34" value="&lt;font&gt;minute hand will move 60 times in order to complete 1 round and get 1 hour completed.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;fillColor=#E1D5E7;fontFamily=Helvetica;fontColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="245" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-35" value="Slowly while the minute hand is turning around, Hour hand will move in order to get into the next number of the twelve in the clock." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;fillColor=#E1D5E7;fontFamily=Helvetica;fontColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="381.25" width="180" height="118.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-36" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="0.2" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="615" y="280" as="sourcePoint" />
+            <mxPoint x="620" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-38" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-0.3765" y="-109" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="710" y="321" as="sourcePoint" />
+            <mxPoint x="709.5" y="381.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="709" y="321.25" />
+              <mxPoint x="709" y="321.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-44" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-0.3765" y="-109" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="710.5" y="500" as="sourcePoint" />
+            <mxPoint x="710" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="709.5" y="500.25" />
+              <mxPoint x="709.5" y="500.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-45" value="When hour clock arrives to the biginning point that is twelve it will complete a whole cycle." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;fillColor=#E1D5E7;fontFamily=Helvetica;fontColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="580" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-46" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-0.3765" y="-109" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="710" y="670" as="sourcePoint" />
+            <mxPoint x="709.5" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-49" value="It starts again and repeat infinitely." style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;fontColor=#00A600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="665" y="750" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-50" value="&lt;span style=&quot;&quot;&gt;Starting from 12, cosidered the top, all clock hands turn around in right direction.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;fontColor=#00A600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="555" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-52" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BvLEymWVp1OHy5rKcRjy-49" target="BvLEymWVp1OHy5rKcRjy-50">
+          <mxGeometry x="-0.3765" y="-109" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="570" y="800" as="sourcePoint" />
+            <mxPoint x="569.5" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="800" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
