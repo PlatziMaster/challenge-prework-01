@@ -4,12 +4,12 @@ Recap: Curso de Pensamiento Logico.
 ## Retos:
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
-
-<Imagen_reto_1>
+* Hubo una confusion y el diagrama representa "Como ver la hora".
+![Alt text](/images/ver_la_hora.png?raw=true "Ver la hora")
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
+![Alt text](/images/ir_al_trabajo.png?raw=true "Ir al trabajo")
 
-<Imagen_reto_2>
 
 ## Pasos a seguir:
 
