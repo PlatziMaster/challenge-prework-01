@@ -5,11 +5,11 @@ Recap: Curso de Pensamiento Logico.
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
 
-<Imagen_reto_1>
+![Como funciona un reloj](https://github.com/joethecoderr/challenge-prework-01/blob/master/images/funcionamiento_reloj%20(1).jpg)
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
-<Imagen_reto_2>
+![Ir de casa al trabajo](https://github.com/joethecoderr/challenge-prework-01/blob/master/images/casa-trabajo.jpg)
 
 ## Pasos a seguir:
 
