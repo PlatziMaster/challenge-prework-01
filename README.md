@@ -9,7 +9,7 @@ Recap: Curso de Pensamiento Logico.
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
-<img src="./images/DR_Trabajo_a_Casa.png">
+<img src="./images/DF_Trabajo_a_Casa.png">
 
 ## Pasos a seguir:
 
