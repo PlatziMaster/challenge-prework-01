@@ -5,11 +5,11 @@ Recap: Curso de Pensamiento Logico.
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
 
-<Imagen_reto_1>
+![Reto 1](images\Reto_1.jpeg)
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
-<Imagen_reto_2>
+![Reto 2](images/Reto_2.jpeg)
 
 ## Pasos a seguir:
 
@@ -25,4 +25,5 @@ Si quieres agregar o mejorar algo, te invito a colaborar directamente en este re
 
 ## Licencia
 
-challenge-javascript-19 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+challenge-prework-01 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+
