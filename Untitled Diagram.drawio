@@ -1,14 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T07:36:51.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="PE0a0n0E-xSRik5Js2se" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T07:46:47.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="PpvaSXPgyndg8V5fAnt_" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="652" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="130" />
+              <mxPoint x="220" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font color=&quot;#a680b8&quot;&gt;How works an&amp;nbsp;analog clock&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font color=&quot;#a680b8&quot;&gt;How works a mechanical clock&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="155" y="40" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;fontColor=#FF99CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -32,14 +37,24 @@
             <mxPoint x="220" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BvLEymWVp1OHy5rKcRjy-2" value="&lt;font color=&quot;#a680b8&quot;&gt;We have 3 clock hand and twelve number distributed proportionally in a circular way&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="290" width="160" height="90" as="geometry" />
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-2" value="&lt;span style=&quot;color: rgb(166 , 128 , 184)&quot;&gt;It has 3 clock hands: one per hours, one per minutes, other for seconds.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="290" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BvLEymWVp1OHy5rKcRjy-7" value="&lt;font color=&quot;#a680b8&quot;&gt;Wind it&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-7" value="&lt;font color=&quot;#a680b8&quot;&gt;Wind it&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BvLEymWVp1OHy5rKcRjy-8" value="&lt;font color=&quot;#a680b8&quot;&gt;How works an&amp;nbsp;analog clock&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-8" value="&lt;font color=&quot;#a680b8&quot;&gt;&amp;nbsp;Starting from the top, all clock hands turn around in right direction.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="555" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-9" value="&lt;span style=&quot;color: rgb(166 , 128 , 184)&quot;&gt;Clock has twelve numbers distributed proportionally in a circular way&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;fillColor=#E1D5E7;strokeColor=#A680B8;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvLEymWVp1OHy5rKcRjy-12" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#d80073;strokeColor=#FF99CC;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" y="184" relative="1" as="geometry">
+            <mxPoint x="-114" y="-170" as="offset" />
+            <mxPoint x="219.71" y="495" as="sourcePoint" />
+            <mxPoint x="219.71" y="555" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
