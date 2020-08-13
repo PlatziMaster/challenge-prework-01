@@ -5,19 +5,13 @@ Recap: Curso de Pensamiento Logico.
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
 
-<Imagen_reto_1>
+https://drive.google.com/file/d/1wwsqC9780agYaOqVTLlZuCjA_E36Rpmm/view?usp=sharing
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
-<Imagen_reto_2>
+https://drive.google.com/file/d/1ziLPURrqEJ3OdEm-VqPf_aoFXqJzCw_Y/view?usp=sharing
 
 ## Pasos a seguir:
-
-1. Hacer un "Fork" de este proyecto.
-2. Revolver los retos propuestos.
-3. Sube tu reto solucionado en la carpeta images.
-4. Edita este documento "README.md" e inserta la imagen de cada reto.
-4. Crear un Pull Request hacia este repositorio.
 
 ## ¿Cómo contribuir?
 
