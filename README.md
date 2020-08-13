@@ -1,28 +1,18 @@
-# challenge-prework-01
-Recap: Curso de Pensamiento Logico.
+## Challenge Prework-01
+####Curso de pensamiento lógico
 
-## Retos:
+La finalidad de este desafio es desarrollar el pensamiento lógico y las diferentes maneras de resolver problemas. Se pretende llegar a una misma solución pero utilizando diferentes metodos y procedimientos.
 
-1. Crea un diagrama de flujo que represente "Como funciona un reloj".
+### Desafío
+Siguiendo ese orden de ideas, el primer reto consiste en la elaboración de diagramas de flujo que represente ciertas tareas cotidianas. Estas son:
 
-<Imagen_reto_1>
+- Como funciona un reloj.
+- Ir de casa al trabajo ( Punto A - Punto B)
 
-2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
+### Resultado
 
-<Imagen_reto_2>
+##### 1. Funcionamiento de un reloj:
+![](https://raw.githubusercontent.com/JuanFeA98/challenge-prework-01/master/Images/Reloj.png)
 
-## Pasos a seguir:
-
-1. Hacer un "Fork" de este proyecto.
-2. Revolver los retos propuestos.
-3. Sube tu reto solucionado en la carpeta images.
-4. Edita este documento "README.md" e inserta la imagen de cada reto.
-4. Crear un Pull Request hacia este repositorio.
-
-## ¿Cómo contribuir?
-
-Si quieres agregar o mejorar algo, te invito a colaborar directamente en este repositorio: [challenge-prework-01](https://github.com/platzimaster/challenge-prework-01/)
-
-## Licencia
-
-challenge-javascript-19 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+##### 2. Llegar del punto A al punto B:
+![](https://raw.githubusercontent.com/JuanFeA98/challenge-prework-01/master/Images/Punto%20A%20-%20Punto%20B.png)
