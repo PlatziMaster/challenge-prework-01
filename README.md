@@ -5,16 +5,16 @@ Recap: Curso de Pensamiento Logico.
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
 
-<Imagen_reto_1>
+![Imagen_reto_1](https://raw.githubusercontent.com/brycatch/challenge-prework-01/master/images/01-clock.png)
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
-<Imagen_reto_2>
+![Imagen_reto_2](https://raw.githubusercontent.com/brycatch/challenge-prework-01/master/images/02-work.png)
 
 ## Pasos a seguir:
 
 1. Hacer un "Fork" de este proyecto.
-2. Revolver los retos propuestos.
+2. Resolver los retos propuestos.
 3. Sube tu reto solucionado en la carpeta images.
 4. Edita este documento "README.md" e inserta la imagen de cada reto.
 4. Crear un Pull Request hacia este repositorio.
