@@ -26,3 +26,9 @@ Si quieres agregar o mejorar algo, te invito a colaborar directamente en este re
 ## Licencia
 
 challenge-javascript-19 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+
+Imagen_reto_1
+![Imagen_reto_1](https://raw.githubusercontent.com/albertusortiz/challenge-prework-01/master/images/Imagen_reto_1.jpg)
+
+Imagen_reto_2
+![Imagen_reto_2](https://raw.githubusercontent.com/albertusortiz/challenge-prework-01/master/images/Imagen_reto_2.jpg)
