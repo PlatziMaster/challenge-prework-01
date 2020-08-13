@@ -27,4 +27,6 @@ Si quieres agregar o mejorar algo, te invito a colaborar directamente en este re
 
 challenge-javascript-19 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
+![alt text](./Diagrama-de-flujo-reloj.png)
+
 ![alt text](./Diagrama-de-flujo-casa.png)
