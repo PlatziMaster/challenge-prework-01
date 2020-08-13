@@ -5,16 +5,16 @@ Recap: Curso de Pensamiento Logico.
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
 
-<Imagen_reto_1>
+![alt text](https://github.com/l33pif/challenge-prework-01/blob/master/Images/Reloj.jpg)
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
-<Imagen_reto_2>
+![alt text](https://github.com/l33pif/challenge-prework-01/blob/master/Images/trabajo.jpg)
 
 ## Pasos a seguir:
 
 1. Hacer un "Fork" de este proyecto.
-2. Revolver los retos propuestos.
+2. Resolver los retos propuestos.
 3. Sube tu reto solucionado en la carpeta images.
 4. Edita este documento "README.md" e inserta la imagen de cada reto.
 4. Crear un Pull Request hacia este repositorio.
