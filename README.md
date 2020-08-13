@@ -11,6 +11,7 @@ Recap: Curso de Pensamiento Logico.
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
 <Imagen_reto_2>
+![alt text](https://github.com/Rijutope06/challenge-prework-01/blob/master/imagenes/DiagramaTrabajo.png)
 
 ## Pasos a seguir:
 
