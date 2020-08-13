@@ -14,7 +14,7 @@ Recap: Curso de Pensamiento Logico.
 ## Pasos a seguir:
 
 1. Hacer un "Fork" de este proyecto.
-2. Revolver los retos propuestos.
+2. Resolver los retos propuestos.
 3. Sube tu reto solucionado en la carpeta images.
 4. Edita este documento "README.md" e inserta la imagen de cada reto.
 4. Crear un Pull Request hacia este repositorio.
