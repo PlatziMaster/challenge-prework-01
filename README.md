@@ -1,11 +1,11 @@
 # challenge-prework-01
-Recap: Curso de Pensamiento Logico.
+Recap: Curso de Pensamiento Lógico.
 
 ## Retos:
 
 1. Crea un diagrama de flujo que represente "Como funciona un reloj".
 
-<Imagen_reto_1>
+<Imagen_reto_1>![Imagen_reto_1](images/Imagen_reto_1.JPG)
 
 2. Crea un diagrama de flujo que represente "Ir de casa al trabajo A => B".
 
